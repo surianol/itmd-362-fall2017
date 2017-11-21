@@ -13,4 +13,5 @@ describe modification and the HTML, CSS, and JavaScript that you would need to w
 
 * Sketch or illustrate (e.g., in Photoshop) your alternate/"b" test.
 
-* A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however).
+* A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for the test
+ (you do *not* have to write the actual HTML, CSS, and JavaScript, however).
